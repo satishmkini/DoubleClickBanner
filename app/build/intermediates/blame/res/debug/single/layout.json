@@ -80,12 +80,12 @@
         "source": "C:\\Android (1)\\DoubleClickBanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Android (1)\\DoubleClickBanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Android (1)\\DoubleClickBanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_media.xml"
-    },
-    {
         "merged": "C:\\Android (1)\\DoubleClickBanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hockeyapp_fragment_update.xml",
         "source": "C:\\Android (1)\\DoubleClickBanner\\app\\build\\intermediates\\exploded-aar\\net.hockeyapp.android\\HockeySDK\\3.7.1\\res\\layout\\hockeyapp_fragment_update.xml"
+    },
+    {
+        "merged": "C:\\Android (1)\\DoubleClickBanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Android (1)\\DoubleClickBanner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\Android (1)\\DoubleClickBanner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
