@@ -16,11 +16,13 @@ ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:2:1
 uses-permission#android.permission.INTERNET
 ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:5:5-66
 MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:20:5-66
+MERGED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:13:5-67
 	android:name
 		ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:6:5-78
 MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:21:5-78
+MERGED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:12:5-79
 	android:name
 		ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:6:22-76
 application
@@ -33,22 +35,23 @@ MERGED from [com.android.support:support-v4:23.0.1] C:\Android (1)\DoubleClickBa
 MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:23.0.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:16:5-22:19
 	android:label
 		ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:16:18-44
 	android:allowBackup
 		ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:9:9-35
 	android:icon
 		ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:10:9-45
 	android:theme
 		ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:12:9-40
-meta-data#com.google.android.gms.version
-ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:14:9-121
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+meta-cdata
+ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:14:9-122
 	android:value
-		ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:14:66-119
+		ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:14:67-120
 	android:name
-		ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:14:20-65
+		ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:14:21-66
 activity#com.google.android.gms.example.bannerexample.MyActivity
 ADDED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:label
@@ -84,6 +87,7 @@ MERGED from [com.android.support:support-v4:23.0.1] C:\Android (1)\DoubleClickBa
 MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:23.0.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:8:5-10:41
 	android:targetSdkVersion
 		INJECTED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Android (1)\DoubleClickBanner\app\src\main\AndroidManifest.xml
@@ -96,3 +100,34 @@ ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Android (1)\Doubl
 		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:31:13-50
 	android:name
 		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:30:19-91
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:22:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:14:22-78
+activity#net.hockeyapp.android.UpdateActivity
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:17:9-73
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:17:19-70
+activity#net.hockeyapp.android.FeedbackActivity
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:18:9-75
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:18:19-72
+activity#net.hockeyapp.android.PaintActivity
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:19:9-72
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:19:19-69
+activity#net.hockeyapp.android.LoginActivity
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:20:9-72
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:20:19-69
+activity#net.hockeyapp.android.ExpiryInfoActivity
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:21:9-77
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:21:19-74
