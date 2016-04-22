@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android (1)\DoubleClickBanner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1b0eaee875a9a2fa8cd9a76c30374f0332bfd32e">
+        <dex dex="C:\Android (1)\DoubleClickBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9580aa7c71e4b268e80862e827ce5120fa531994\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Android (1)\DoubleClickBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_9b6a66438d613a7252cbb55436cb0919b97fe517\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Android (1)\DoubleClickBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.1.0_29134d2266f1400030ecee22e15b5c17d4ab4ac5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Android (1)\DoubleClickBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_ae673beb404f7bca8dbf8c3b1b55bde9d956c451\classes.dex" />
+    </item>
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Android (1)\DoubleClickBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_0f27f3f2e6baf84001d2afa8230a137d4b3eaf12\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android (1)\DoubleClickBanner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a6039d89649e29334c3761de051d1ede9c1e8c6a">
+        <dex dex="C:\Android (1)\DoubleClickBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_61cf12f9a5dc4cb23a99acae12f8eca42d5a5191\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Android (1)\DoubleClickBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_2d135f9141f1b7678f7d6e84d95a48c1007976f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Android (1)\DoubleClickBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_5a45f359b7eca30bce0cea601ed9a736aeb357b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android (1)\DoubleClickBanner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Android (1)\DoubleClickBanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_7de02e695991c5df8578ea8ab2056f1193171e54\classes.dex" />
+    </item>
+
+</items>
